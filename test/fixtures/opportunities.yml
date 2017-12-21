@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sfdc_id: MyString
+  account_id: MyString
+  name: MyString
+  stage: MyString
+  batch: MyString
+  status: MyString
+
+two:
+  sfdc_id: MyString
+  account_id: MyString
+  name: MyString
+  stage: MyString
+  batch: MyString
+  status: MyString
